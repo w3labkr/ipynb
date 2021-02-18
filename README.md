@@ -1,5 +1,5 @@
-# Web Crawler
-An easy-to-use web crawler on juypiter notebook.
+# Web Scraper
+An easy-to-use web scraper on juypiter notebook.
 
 
 ## Installation
