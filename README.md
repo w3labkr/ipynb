@@ -34,4 +34,4 @@ params = {
 
 ## License
 
-Web Crawler is licensed under the [MIT LICENSE](LICENSE)
+Jupiter Notebook is licensed under the [MIT LICENSE](LICENSE)
