@@ -1,24 +1,29 @@
-# Web Scraper
+# Jupiter Notebook
+
+A collection of frequently used Jupiter notebook code.
+
+## Directory Structure
+
+```
+o
+`-- scrapper/
+    `-- naver.com/
+```
+
+## scrapper
+
 An easy-to-use web scraper on juypiter notebook.
 
+**Installation**
 
-## Installation
-
-**pip**
 ```
-pip install selenium
-pip install chromedriver-autoinstaller
+(base) pip install selenium
+(base) pip install chromedriver-autoinstaller
 ```
 
-**conda**
-```
-conda install selenium
-conda install chromedriver-autoinstaller
-```
+**Usage**
 
-
-## Usage
-```
+```python
 params = {
     'section': 'qna', # kin, qna, ency
     'period': '1w', # 1w, 1m, 2002.01.01.%7C2020.12.09.
@@ -27,6 +32,6 @@ params = {
 }
 ```
 
-
 ## License
+
 Web Crawler is licensed under the [MIT LICENSE](LICENSE)
